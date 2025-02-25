@@ -1,4 +1,4 @@
-import AcmeLogo from '@/ui/acme-logo';
+import AcmeLogo from '@/ui/acmeLogo';
 import { ArrowRightIcon } from '@heroicons/react/24/outline';
 import Link from 'next/link';
 import { lusitana } from '@/ui/fonts/fonts';
